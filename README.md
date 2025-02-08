@@ -1,10 +1,21 @@
-# React + Vite
+# GMDEV Developer portfolio 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hello! :) thanks for checking the code of my personal developer portfolio.
 
-Currently, two official plugins are available:
+The goal for this project is just to create an efficient, clean, optimized, unique, deveoper portfolio that showcases my passion for computers and science! 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I will be using modern industry standard technology as well as new emerging technology. 
 
-blah 
+I am using libraries in this portfolio if you'd like to see more of my raw javascript work please check out:
+
+## Please visit [gmdevstore.com](https://gmdevstore.com)  
+
+I also am utilizing a personal public serverless API I have built previously. 
+
+## Please visit [gmdevapi.com](https://gmdevapi.com)
+
+## Technologies used 
+- Build
+    - [Vite](https://vite.dev/) (open source) 
+    - [Rollup](https://rollupjs.org/) (open source) 
+    - [Node](https://nodejs.org/en) (open source) 
