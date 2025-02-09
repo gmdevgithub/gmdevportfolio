@@ -33,6 +33,12 @@ I also am utilizing a personal public serverless API I have built previously.
     -[EC14](https://tc39.es/ecma262/)(open source)
     -[Edge/Firefox/Opera]()(open source)
         - This means that Edge shares the same rendering engine (Blink) and JavaScript engine (V8) as Chrome, providing similar performance and compatibility with web standards.
+- Programming languages and frameworks
+    - Web basic HTML,JS,JSX,CSS.
+    - [React.js](https://react.dev/)(open source) 
+    - [SCSS]()(open source)
+- Testing and testing frameworks
+
 
 ---
 ## Ecma 2025 proposed new features
@@ -97,3 +103,17 @@ I also am utilizing a personal public serverless API I have built previously.
 |                    | Production is automatically updated when the main branch changes.                     |
 | 11. **Performance Benefits** | The project benefits from Cloudflare's global edge network and caching.      |
 |                    | Static assets and optimized bundles serve quickly across regions.                     |
+
+
+# AI 
+ Deployment Checklist
+ - Set up Cloudflare Pages build and deployment pipeline.
+ - Create and deploy Cloudflare Worker API for AI inference.
+ - Test AI model inference with mock user data.
+ - Ensure GDPR compliance and security measures.
+ - Optimize Vite build for fast load times.
+
+ # 3D/Animations
+
+ # Design/UI
+
