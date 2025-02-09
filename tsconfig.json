@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "jsx": "react-jsx",
+    "strict": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "isolatedModules": true, // Enable faster incremental builds
+    "noEmitOnError": true, // Prevent emitting files if there are errors
+    "resolveJsonModule": true // Allow importing JSON files
+  },
+  "include": ["src"]
+}
+
