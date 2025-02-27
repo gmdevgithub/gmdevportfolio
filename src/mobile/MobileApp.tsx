@@ -1,14 +1,14 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg';
-import viteLogo from './assets/vite.svg'
-import './App.scss'
+import reactLogo from '../assets/react.svg';
+import viteLogo from '../assets/vite.svg'
+import '../mobile/MobileApp.scss'
 
 function MobileApp() {
   const [count, setCount] = useState(0)
 
   return (
     <>
-      <div>
+      <div id="root">
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>

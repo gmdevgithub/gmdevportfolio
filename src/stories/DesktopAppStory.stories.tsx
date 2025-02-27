@@ -1,6 +1,5 @@
-import React from 'react';
 import { Meta, StoryFn } from '@storybook/react';
-import DesktopApp from '../DesktopApp';
+import DesktopApp from '../desktop/DesktopApp';
 
 export default {
   title: 'Components/DesktopApp',

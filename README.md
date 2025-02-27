@@ -36,8 +36,20 @@ I also am utilizing a personal public serverless API I have built previously.
 - Programming languages and frameworks
     - Web basic HTML,JS,JSX,CSS.
     - [React.js](https://react.dev/)(open source) 
-    - [SCSS]()(open source)
+    - [Saas/SCSS](https://sass-lang.com/)(open source)
 - Testing and testing frameworks
+    - [Jest](https://jestjs.io/)(open source)
+        - Jest is a delightful JavaScript testing framework with a focus on simplicity. It works with projects using Babel, TypeScript, Node.js, React, Angular, Vue.js, and Svelte.
+    - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)(open source)
+        - React Testing Library is a lightweight solution for testing React components. It provides utility functions to interact with the components in a way similar to how a user would.
+    - [Cypress](https://www.cypress.io/)(open source)
+        - Cypress is a fast, easy, and reliable testing framework for anything that runs in a browser. It is used for end-to-end testing.
+    - [Vitest](https://vitest.dev/)(open source)
+        - Vitest is a blazing fast unit test framework powered by Vite. It is designed to be a Vite-native test runner, providing a seamless testing experience with Vite projects.
+    - [ESLint](https://eslint.org/)(open source)
+        - ESLint is a static code analysis tool for identifying problematic patterns found in JavaScript code. It helps in maintaining code quality and consistency.
+    - [Prettier](https://prettier.io/)(open source)
+        - Prettier is an opinionated code formatter that enforces a consistent style by parsing your code and re-printing it with its own rules.
 
 
 ---
