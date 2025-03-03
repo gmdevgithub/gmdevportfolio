@@ -3,6 +3,23 @@ import reactLogo from '../assets/react.svg'
 import viteLogo from '../assets/vite.svg'
 import '../desktop/DesktopApp.scss'
 
+import {
+  gsap,
+  Flip,
+  ScrollTrigger,
+  Observer,
+  ScrollToPlugin,
+  Draggable,
+  MotionPathPlugin,
+  EaselPlugin,
+  PixiPlugin,
+  TextPlugin,
+  RoughEase,
+  ExpoScaleEase,
+  SlowMo,
+  CustomEase
+} from '../../gsap';
+
 function DesktopApp() {
   const [count, setCount] = useState(0)
 
