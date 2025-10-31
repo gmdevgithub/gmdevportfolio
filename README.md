@@ -1,4 +1,4 @@
-# GMDEV Developer portfolio 
+#  codedumpsterfire
 
 Hello! :) thanks for checking the code of my personal developer portfolio.
 
